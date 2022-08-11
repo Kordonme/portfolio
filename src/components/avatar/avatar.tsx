@@ -49,6 +49,7 @@ export const Avatar = () => {
         id="avatar"
         data={avatarUrl}
         className="h-[90%]"
+        title="Mark Jan Bonne Kordon"
       />
     </div>
   );
